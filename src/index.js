@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import ProductContainer from './components/ProductContainer';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <ProductContainer name="unaurlgenerica"/>
   </React.StrictMode>,
   document.getElementById('root')
 );
