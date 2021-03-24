@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import ProductContainer from './components/ProductContainer';
 import reportWebVitals from './reportWebVitals';
+import ProductHistory from './components/ProductHistory';
 
 ReactDOM.render(
   <React.StrictMode>

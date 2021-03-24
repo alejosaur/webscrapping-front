@@ -6,6 +6,11 @@ body {
   background-color: darkgrey;
 }
 
+#chart {
+  margin-top: 2%;
+  background-color: white;
+}
+
 p:not(.product-link){
   line-height: 0.1em;
 }
